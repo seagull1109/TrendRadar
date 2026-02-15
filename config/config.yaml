@@ -256,7 +256,7 @@ notification:
 
     dingtalk:
       webhook_url: ""                 # 钉钉机器人 webhook URL
-
+      enabled: true 
     wework:
       webhook_url: ""                 # 企业微信机器人 webhook URL
       msg_type: "markdown"            # 消息类型：markdown(群机器人) | text(个人微信应用)
